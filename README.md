@@ -1,4 +1,4 @@
-![alt text](http://url/to/codingnerd.png)
+![alt text](https://github.com/[akaberkay]/[akaberkay]/blob/[branch]/codingnerd.png?raw=true)
 
 
 - 👋 Hi, I’m @akaberkay
