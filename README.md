@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="codingnerd.png" />
+</p>
+
+
 - 👋 Hi, I’m @akaberkay
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning C
