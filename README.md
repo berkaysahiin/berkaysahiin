@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="codingnerd.png" />
-</p>
+![alt text](http://url/to/codingnerd.png)
 
 
 - 👋 Hi, I’m @akaberkay
