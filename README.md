@@ -1,5 +1,4 @@
-(https://user-images.githubusercontent.com/92673021/137637626-67b5c34a-a3ce-4986-98b3-4b8046b82231.png)
-- 
+   ![codingnerd](https://user-images.githubusercontent.com/92673021/137637908-f08d2ef8-bbc8-4853-b1e8-e40ab58d0afe.png)
 - 👋 Hi, I’m @akaberkay![codingnerd]
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning C
