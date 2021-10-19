@@ -1,4 +1,9 @@
-   ![codingnerd](https://user-images.githubusercontent.com/92673021/137637908-f08d2ef8-bbc8-4853-b1e8-e40ab58d0afe.png)
+<p align="center">
+  <img src="wp.png" />
+</p>
+
+
+
 - 👋 Hi, I’m Berkay Şahin!
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning C
