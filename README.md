@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wp.png" />
+  <img src="wp2.jpg" />
 </p>
 
 
