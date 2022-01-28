@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Berkay Şahin!
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on game dev.
 - 📫 How to reach me akassnowflake@gmail.com
 
