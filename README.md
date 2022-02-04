@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkay from Istanbul</h1>
+<h1 align="center">Hi 👋, I'm Berkay aka snowflake</h1>
 <h3 align="center">Newbie game developer from Istanbul</h3>
 
 - 🔭 I’m currently working on [2D Side-scrolling game](https://github.com/akaberkay/Side-Scrolling-Project)
