@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Berkay aka snowflake</h1>
-<h3 align="center">Newbie game developer from Istanbul</h3>
+![MasterHead](https://i.ibb.co/0q7JNbk/finalbanner.png)
+<h1 align="center"></h1>
 
 - 🔭 I’m currently working on [2D Side-scrolling game](https://github.com/akaberkay/Side-Scrolling-Project)
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 💬 Ask me about **game development**
+- 💬 Ask me about **anything that interesting and fun!**
 
 - 📫 How to reach me **akassnowflake@gmail.com**
 
 - ⚡ Fun fact **Although I am a Turk, I hate tea**
+<h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
