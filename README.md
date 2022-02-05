@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akassnowflake@gmail.com**
 
-- ⚡ Fun fact **Although I am a Turk, I hate tea**
+- ⚡ Fun fact **The first game I played was Serious Sam 2**
 <h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
