@@ -1,9 +1,9 @@
 ![MasterHead](https://i.ibb.co/0q7JNbk/finalbanner.png)
 <h1 align="center"></h1>
 
-- 🔭 I’m currently working on [2D Side-scrolling game](https://github.com/akaberkay/Side-Scrolling-Project)
+- 🔭 I’m currently working on [Doppelgangers](https://sezg.itch.io/doppelgangers) and [Game-Already](https://github.com/akaberkay/Game-Already)
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Unity, C and C#**
 
 - 💬 Ask me about **anything that interesting and fun!**
 
