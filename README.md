@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/0q7JNbk/finalbanner.png)
+![MasterHead](https://i.ibb.co/R2pPhxk/largerbannerpng.png)
 <h1 align="center"></h1>
 
 - 🔭 I’m currently working on [Doppelgangers](https://sezg.itch.io/doppelgangers) and [Game-Already](https://github.com/akaberkay/Game-Already)
