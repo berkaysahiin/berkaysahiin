@@ -9,11 +9,11 @@
 
 <h2 align="left">Check out the jam games I'm a part of:</h2>
 
-   - 🎮 **[Doppelgangers](https://sezg.itch.io/doppelgangers) is a 2D platformer-puzzle game developed for MagaraJam#4 in 72 hours which placed 2nd**
+  🎮   **[Doppelgangers](https://sezg.itch.io/doppelgangers) is a 2D platformer-puzzle game developed for MagaraJam#4 in 72 hours which placed 2nd**
    
-   - 🎮 **[Escaping Slime](https://sezg.itch.io/escaping-slime) is a 2D landrotating-puzzle game developed for IZTECH HyperJam in 36 hours which placed 1st**
+  🎮  **[Escaping Slime](https://sezg.itch.io/escaping-slime) is a 2D landrotating-puzzle game developed for IZTECH HyperJam in 36 hours which placed 1st**
     
-   - 🎮 **[Drøm](https://www.youtube.com/watch?v=52NXupbA080) is a 3D horror FPS shooter game with a few puzzle elements developed for ANKÜ Jam in 48 hours**
+  🎮  **[Drøm](https://www.youtube.com/watch?v=52NXupbA080) is a 3D horror FPS shooter game with a few puzzle elements developed for ANKÜ Jam in 48 hours**
   
   
 <h3 align="left">Languages and Tools:</h3>
