@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Doppelgangers](https://sezg.itch.io/doppelgangers) and [Game-Already](https://github.com/akaberkay/Game-Already)
 - 🌱 I’m currently learning **C, C# and Unity**
 - 💬 Ask me about **anything that interesting and fun!**
-- 📫 How to reach me **akassnowflake@gmail.com**
+- 📫 How to reach me **bbberkaysahin@gmail.com**
 - ⚡ Fun fact **The first game I played was Serious Sam 2**
 
 <h2 align="left">Check out the jam games I'm a part of:</h2>
