@@ -1,10 +1,10 @@
 ![MasterHead](https://i.ibb.co/Hhqzm6X/testbanner.png) 
 <h2 align="center"></h2>
 
-- 🔭 I’m currently working on [Doppelgangers](https://sezg.itch.io/doppelgangers) and [Game-Already](https://github.com/akaberkay/Game-Already)
+- 🔭 I’m currently working on [Doppelgangers](https://sezg.itch.io/doppelgangers) and [Game-Already](https://github.com/berkaysahiin/Game-Already)
 - 🌱 I’m currently learning **C, C# and Unity**
 - 💬 Ask me about **anything that interesting and fun!**
-- 📫 How to reach me **bbberkaysahin@gmail.com**
+- 📫 How to reach me **berkaysahindev@gmail.com**
 - ⚡ Fun fact **The first game I played was Serious Sam 2**
 
 <h2 align="left">Check out the jam games I'm a part of:</h2>
@@ -27,9 +27,9 @@
 
 <h2 align="center"></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akasnowflake&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&hide_border=true&locale=en&layout=compact" alt="akasnowflake" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaysahiin&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&hide_border=true&locale=en&layout=compact" alt="berkaysahiin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akasnowflake&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&bg_color=000000&hide_border=true&locale=en" alt="akasnowflake" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaysahiin&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&bg_color=000000&hide_border=true&locale=en" alt="berkaysahiin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akasnowflake&theme=dark" alt="akasnowflake" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaysahiin&theme=dark" alt="berkaysahiin" /></p>
 
