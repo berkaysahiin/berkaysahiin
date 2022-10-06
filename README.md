@@ -8,13 +8,13 @@
 
 <h2 align="left">Check out the jam games I'm a part of:</h2>
 
-  🎮   **[Doppelgangers](https://sezg.itch.io/doppelgangers) is a 2D platformer-puzzle game developed for MagaraJam#4 in 72 hours which placed 2nd**
+  🎮   **[Doppelgangers](https://sezg.itch.io/doppelgangers) is a 2D platformer-puzzle game developed for MagaraJam#4 in 72 hours which placed 2nd.**
    
-  🎮  **[Escaping Slime](https://sezg.itch.io/escaping-slime) is a 2D landrotating-puzzle game developed for IZTECH HyperJam in 36 hours which placed 1st**
+  🎮  **[Escaping Slime](https://sezg.itch.io/escaping-slime) is a 2D landrotating-puzzle game developed for IZTECH HyperJam in 36 hours which placed 1st.**
     
-  🎮  **[Drøm](https://www.youtube.com/watch?v=52NXupbA080) is a 3D horror FPS shooter game with a few puzzle elements developed for ANKÜ Jam in 48 hours**
+  🎮  **[Drøm](https://www.youtube.com/watch?v=52NXupbA080) is a 3D horror FPS shooter game with a few puzzle elements developed for ANKÜ Jam in 48 hours.**
   
-  🎮  **[Golden Fish](https://akasnowflake.itch.io/golden-fish) is a 3D puzzle game developed for Snappy Gurus Game Off in 72 hours**
+  🎮  **[Golden Fish](https://akasnowflake.itch.io/golden-fish) is a 3D puzzle game developed for Snappy Gurus Game Off in 72 hours.**
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
