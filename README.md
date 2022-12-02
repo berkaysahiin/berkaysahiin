@@ -28,7 +28,6 @@
 
 <h2 align="center"></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaysahiin&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&hide_border=true&locale=en&layout=compact" alt="berkaysahiin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaysahiin&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&bg_color=000000&hide_border=true&locale=en" alt="berkaysahiin" /></p>
 
