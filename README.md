@@ -3,8 +3,7 @@
 
 <h2 align="center"></h2>
 
-- 🌱 I’m currently learning **Java, C# and Unity Engine.**
-- 💬 Ask me about **anything that interesting and fun!**
+- 🌱 I’m currently learning **C, Data Structures, Operating Systems**
 - 📫 How to reach me **berkaysahindev@gmail.com**
 - ⚡ Fun fact **The first game I played was Serious Sam 2.**
 
