@@ -1,4 +1,4 @@
-### <div align="center"> :octocat: I'm Berkay, a software engineering student at Maltepe University 👨‍💻 learning every of computer science.</div>  
+### <div align="center"> :octocat: I'm Berkay, a software engineering student at Maltepe University 👨‍💻 learning every of computer science. :shipit: </div>  
 
 <h2 align="center"></h2>
 
