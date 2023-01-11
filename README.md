@@ -1,5 +1,4 @@
-![untitled (2)](https://user-images.githubusercontent.com/92673021/199497717-4cab2e9f-2251-4fcf-86d3-b2541fb69ead.png)
-
+### <div align="center"> :octocat: I'm Berkay, a software engineering student at Maltepe University 👨‍💻 learning every of computer science.</div>  
 
 <h2 align="center"></h2>
 
