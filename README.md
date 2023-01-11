@@ -2,7 +2,7 @@
 
 <h2 align="center"></h2>
 
-- 🌱 I’m currently learning **C/C++, Rust, Data Structures and Algorithms, Operating Systems**
+- 🌱 I’m currently learning **C/C++, Rust, Data Structures and Algorithms, Operating Systems.**
 - 📫 How to reach me **berkaysahindev@gmail.com**
 - ⚡ Fun fact **The first game I played was Serious Sam 2.**
 
