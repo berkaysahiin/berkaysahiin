@@ -24,10 +24,3 @@
 <a href="https://linkedin.com/in/berkaysahinn/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-<h2 align="center"></h2>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaysahiin&show_icons=true&theme=dark&title_color=b6e8f7&text_color=b6e8f7&bg_color=000000&hide_border=true&locale=en" alt="berkaysahiin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaysahiin&theme=dark" alt="berkaysahiin" /></p>
