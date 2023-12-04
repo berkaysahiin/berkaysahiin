@@ -1,4 +1,4 @@
-### <div align="center"> :octocat: I'm Berkay, a software engineering student 👨‍💻 learning every aspect of computer science. :shipit: </div>  
+### <div align="center"> I'm Berkay, a software engineering student learning every aspect of computer science. </div>  
 
 <h2 align="center"></h2>
 
