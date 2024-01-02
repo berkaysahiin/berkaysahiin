@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Databaset Management System, Distributed Algorithms and working on an Unity project.**
 - 📫 How to reach me **berkaysahindev@gmail.com**
-- ⚡ Fun fact **The first game I played was Serious Sam 2.**
 
 <h2 align="left">Check out the jam games I'm a part of:</h2>
 
