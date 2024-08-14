@@ -1,8 +1,8 @@
-### <div align="center"> Hello, I'm Berkay, a passionate software engineering student exploring every facet of computer science. </div>  
+### <div align="center"> Hello, I'm Berkay, a passionate software engineering specializes in game development. </div>  
 
 <h2 align="center"></h2>
 
-- 🌱 I’m currently learning **Databaset Management System, Distributed Algorithms and working on an Unity project.**
+- 🌱 I’m currently learning **Advanced C#, Networking, Cloud.**
 - 📫 How to reach me **berkaysahindev@gmail.com**
 
 <h2 align="left">Games I've Contributed To:</h2>
