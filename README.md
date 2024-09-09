@@ -2,7 +2,7 @@
 
 <h2 align="center"></h2>
 
-- 🌱 I’m currently learning **Advanced C#, Networking, Cloud.**
+- 🌱 I’m currently learning **Unity Services**
 - 📫 How to reach me **berkaysahindev@gmail.com**
 
 <h2 align="left">Games I've Contributed To:</h2>
