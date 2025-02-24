@@ -13,8 +13,6 @@
 | [Drøm](https://www.youtube.com/watch?v=52NXupbA080) | 3D horror FPS shooter with puzzle elements for ANKÜ Jam (48 hours) |
 | [Marionette](https://www.youtube.com/watch?v=gJIJdJhdsiM&ab_channel=EmirhanDemir) | Story-based 3D puzzle game for MagaraJam2023 @Startgate (72 hours) |
 | [Binding Trees](https://mertbalkan.itch.io/binding-trees) | Tower defense card-strategy game for GGJ-23 Istanbul @Bug (48 hours) |
-| [Golden Fish](https://akasnowflake.itch.io/golden-fish) | 3D puzzle game for Snappy Gurus Game Off (72 hours) |
-| [Carrier Pigeon](https://github.com/berkaysahiin/GDSC-Jammers) | 2D puzzle game for GDSC Maltepe Game Jam (72 hours) - Play as a pigeon spreading false information |
 
 <h2 align="left">Other Projects:</h2>
 
