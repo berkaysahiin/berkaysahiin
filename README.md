@@ -1,4 +1,4 @@
-### <div align="center"> Hello, I'm Berkay, a passionate software engineering specializes in game development. </div>  
+### <div align="center"> Hello. </div>  
 
 <h2 align="center"></h2>
 
