@@ -18,6 +18,7 @@
 
 | Game | Description |
 |------|-------------|
+| [Zeytin](https://github.com/berkaysahiin/zeytin) | Lightweight game engine and editor built using Raylib and ImGui |
 | [Hate Speech Labeler](https://github.com/berkaysahiin/SE464) | Fine-tuned BERT model for hate speech classification task. |
 | [Rank Based Graph Coloring](https://github.com/berkaysahiin/SE454) | Distributed computing algorithm for rank-based graph coloring using the MPI library. |
 | [Shortest Path Visualizer](https://github.com/berkaysahiin/Shortest-Path-Visualizer) | An implementation of BFS shortest path algorithm in C++ using raylib. |
